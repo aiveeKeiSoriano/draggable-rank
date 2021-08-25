@@ -1,5 +1,4 @@
 import { useState } from "react";
-import Box from "./Box";
 import tracks from "./tracks.json"
 
 import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd';
